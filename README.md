@@ -1,2 +1,2 @@
 # test2
- practicing
+ practicing how to use github for my phd work.
